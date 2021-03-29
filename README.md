@@ -8,8 +8,6 @@ I code a bit. I make websites. That's bout it.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BoredFishRE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://boredfish.dev)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoredFishRE)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoredFishRE&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BoredFishRE)  

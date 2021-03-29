@@ -10,6 +10,8 @@ I code a bit. I make websites. That's bout it.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoredFishRE&show_icons=true)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoredFishRE)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BoredFishRE)  
 
 ![GitHub metrics](https://metrics.lecoq.io/BoredFishRE)  
